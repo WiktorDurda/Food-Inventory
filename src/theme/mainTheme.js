@@ -1,0 +1,21 @@
+export const theme = {
+    green100: 'hsl(78, 45%, 93%)',
+    green200: 'hsl(79, 45%, 70%)',
+    green300: 'hsl(79, 45%, 52%)',
+    greenHover: 'hsl(79, 65%, 52%)',
+    red: 'hsl(0, 80%, 64%)',
+    redHover: 'hsl(0, 98%, 64%)',
+    orange: 'hsl(25, 80%, 64%)',
+    black: 'hsl(0, 0%, 20%)',
+    grey100: 'hsl(79, 0%, 83%)',
+    grey200: 'hsl(79, 0%, 80%)',
+    logo: 'hsl(0, 0%, 94%)',
+    fontSize: {
+        xxs: '1rem',
+        xs: '1.2rem',
+        s: '1.6rem',
+        m: '1.8rem',
+        l: '2.4rem',
+        xl: '4rem',
+    },
+};
